@@ -11,3 +11,7 @@ Author: Naveen
 4. Attachments (Image, Video, Audio) code
 
 5. Hide last seen implementation
+
+6. Adding the audio call feature
+
+7. Adding the video call feature
