@@ -9,3 +9,5 @@ Author: Naveen
 3. Last seen code
 
 4. Attachments (Image, Video, Audio) code
+
+5. Hide last seen implementation
